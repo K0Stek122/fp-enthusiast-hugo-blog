@@ -1,0 +1,15 @@
+---
+title: The Black Company Review
+slug: the-black-company-review
+published_date: 2025-08-20T12:27:00+00:00
+tags: book, book/review
+publish: true
+make_discoverable: true
+is_page: false
+---
+
+I started reading The Black Company back in 2023. I was abroad and this was on my comfort to-read books when I was doing a [[One book a week is a lot of books]] challenge. Well, I guess I'm still doing that challenge now, just effortlessly since it turns out I am a big reader. I chose this book When I was abroad and needed something easy to read after being tied up and around the whole day. I was not disappointed by that book, Since I went on to read the next eleven ones, and I'm currently on the last one mysteriously named "Soldiers Live", And I expect to read the next four that are due to come out soon (ADD THIS LATER). After this long gripping journey, let me tell you what I think about The Black Company series.
+
+With such a long series, It is best to start at the beginning with the debut novel "The Black Company". It tells the story of a prevailing mercenary army named The Black Company that has been around for centuries, it introduces the main protagonist: Croaker; A physician, and the annalist of the black company. The company made it its culture to track their history with the use of annalists that detail every event that happens. The thing with this series is that it heavily uses unreliable narrators, and you will see it in different novels with different annalists, but also as existing annalists get older and more experienced. Take as an example, Magic in fantasy, with unreliable narrators is not explained unless the author themselves is a wizard. This introduces a great level of mysteriousness to throughout the whole series. And I believe this degree of mysteriousness is what makes this series phenomenal. You don't see plans unravel, or schemes in planning, unless they already began happening. A physician like Croaker does not have a look into everything that his boss or the enemy does. This applies to characters as well. Characters can be liked by one narrator and hated by another. As a certain character put it in one of the later novels: "Books are nothing but repositories for those lies the author wants hos reader to believe". There is no world where this statement is more true. This approach to writing that Cook applies here is supplementing the dark fantasy setting very well. It's subtle, the cruelness is not in your face like other dark / grim fantasy novels do. If the narrator were omniscient, a lot would be lost about this series. And I wouldn't have read eleven books from it. Over the chronicles you'll see the company's primes and falls. You'll see them rebuild from 3 soldiers to 12,000. And it is a long story spanning 50 years.
+
+If there is one reason to pick up the first book, It's the narrators. They shape this book and your worldview of this fictional worth. They morph it with time to their own perspective.
