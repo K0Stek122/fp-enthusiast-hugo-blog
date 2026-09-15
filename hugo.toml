@@ -1,0 +1,19 @@
+baseURL = 'https://kostek.uk/fp-enthusiast'
+locale = 'en-uk'
+title = 'FP Enthusiast'
+
+theme = "github.com/K0Stek122/fp-enthusiast-hugo-theme"
+
+[params]
+  tagline = 'Inks, nibs and paper — Notes from a fountain pen addict.'
+  description = 'Inks, nibs and paper — Notes from a fountain pen addict.'
+
+[[menus.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+
+[[menus.main]]
+  name = 'About'
+  pageRef = '/about'
+  weight = 20
